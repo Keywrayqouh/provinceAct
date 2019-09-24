@@ -1,0 +1,9 @@
+{
+    "image1":"/images/neg1.jpg",
+     "image2":"/images/neg2.jpg",
+     "image3":"/images/neg3.jpg",
+    "name_of_province":"Province of Negros",
+    "groupOfIsland":"Visayas",
+    "population":" 1313560",
+     "delicacies":["chicharon","lechon","otap"]
+}

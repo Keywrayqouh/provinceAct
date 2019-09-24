@@ -1,0 +1,11 @@
+
+{
+    
+    "image1":"/images/bohol1.jpg",
+     "image2":"/images/bohol2.jpg",
+     "image3":"/images/bohol3.jpg",
+    "name_of_province":"Province of Bohol",
+    "groupOfIsland":"Visayas",
+    "population":" 1313560",
+     "delicacies":["chicharon","lechon","otap"]
+}

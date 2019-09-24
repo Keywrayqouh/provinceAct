@@ -1,0 +1,38 @@
+doctype html
+html
+  head
+    style
+      include style.css
+  body
+    
+center
+   
+    h1=name
+    
+   
+
+
+    
+    img(src=img1).cl
+    hr
+    img(src=img2).cl2
+    img(src=img3).cl1
+    hr
+    //- H1=del
+    h3=GofI
+    h4 Population 
+      h1=pop
+    h2 List of Delicacies:
+    each item in del
+      li= item
+    h2 Ratings:
+    button(class="button",id="b1") 1
+    button(class="button",id="b2") 2
+    button(class="button",id="b3") 3
+    button(class="button",id="b4") 4
+    button(class="button",id="b5") 5
+
+
+
+    script
+      include script.js

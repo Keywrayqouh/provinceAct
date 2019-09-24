@@ -1,0 +1,11 @@
+
+{
+    
+    "image1":"/images/ley1.jpg",
+     "image2":"/images/ley2.jpg",
+     "image3":"/images/ley3.jpg",
+    "name_of_province":"Province of Leyte",
+    "groupOfIsland":"Visayas",
+    "population":" 1313560",
+     "delicacies":["chicharon","lechon","otap"]
+}

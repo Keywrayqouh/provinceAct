@@ -1,0 +1,1 @@
+/provinces/negros,/images/neg1.jpg,/images/neg2.jpg,/images/neg3.jpg,/provinces/bohol,/images/bohol2.jpg,/images/bohol1.jpg,/images/bohol3.jpg,/provinces/bohol,/images/bohol2.jpg,/images/bohol1.jpg,/images/bohol3.jpg,/provinces/bohol,/images/bohol1.jpg,/images/bohol2.jpg,/images/bohol3.jpg,

@@ -1,0 +1,11 @@
+
+{
+    
+    "image1":"/images/siq1.jpg",
+     "image2":"/images/siq2.jpg",
+     "image3":"/images/siq3.jpg",
+    "name_of_province":"Province of Siquijor",
+    "groupOfIsland":"Visayas",
+    "population":" 1313560",
+     "delicacies":["chicharon","lechon","otap"]
+}
